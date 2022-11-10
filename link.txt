@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Islam
+https://en.wikipedia.org/wiki/Judaism
+https://en.wikipedia.org/wiki/Christianity
+https://www.kaggle.com/code/gulsahdemiryurek/world-religions/data
